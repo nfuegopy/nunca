@@ -1,0 +1,5 @@
+1) Crea la base de datos llamada portafolio
+2) ejecuta el contenido del archivo Base de Datos
+3) Modifica si es necesario la conexion con tu localhost 
+o direccion de tu motor de BD y usuarios en (En caso de no usar los estandar)
+4)Modifica los datos a tu gusto
